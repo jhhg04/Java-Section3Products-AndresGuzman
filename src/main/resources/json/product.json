@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Playstation 5",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "name": "Soccer Ball",
+    "price": 120
+  },
+  {
+    "id": 3,
+    "name": "Blue Jeans Levis",
+    "price": 201
+  },
+  {
+    "id": 4,
+    "name": "Boots Black",
+    "price": 150
+  }
+]
